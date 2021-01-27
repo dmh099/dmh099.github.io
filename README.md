@@ -33,12 +33,8 @@
       <div class="row column text-center">
         <h1>Danielson's Classic Cuts</h1>
         <p class="lead">
-<<<<<<< HEAD
           Check out some of Daniel's amazing work
-=======
-          Check out some of Daniel's amazing work.
           Nullam in dui mauris.
->>>>>>> 3533adb17d60b76afde02fa856dc5c9314faf197
         </p>
         <a href="#" class="button large">Learn More</a>
         <a href="#" class="button large hollow">Learn Less</a>
@@ -47,10 +43,10 @@
 
     <div class="row">
       <div class="medium-6 columns medium-push-6">
-        <img class="thumbnail" src="https://www.shoutlo.com/uploads/articles/header-img-5-best-salons-in-mohali.jpeg">
+        <img class="thumbnail" src="https://placehold.it/750x350">
       </div>
       <div class="medium-6 columns medium-pull-6">
-        <h2>My History.</h2>
+        <h2>Our Agency, our selves.</h2>
         <p>
           My family has four generations of barbers. In 1960, my step-father's
           father, Cy Avara, started Avara's Academy of Hair Design. Cy's father
@@ -59,11 +55,6 @@
           He tought his children how to cut hair, and when I was 16 I also went
           through his school. It is a trade I love having in my arsenal and I
           enjoy cutting hair on the side.
-<<<<<<< HEAD
-          </thead>
-          </thead>
-=======
->>>>>>> 3533adb17d60b76afde02fa856dc5c9314faf197
         </p>
       </div>
     </div>
@@ -71,7 +62,9 @@
     <div class="row">
       <div class="medium-4 columns">
         <h3>Photoshop</h3>
-        <p> .</p>
+        <p>Vivamus luctus urna sed urna ultricies ac tempor dui sagittis.
+        In condimentum facilisis porta. Sed nec diam eu diam mattis viverra.
+        Nulla fringilla, orci ac euismod semper, magna.</p>
       </div>
       <div class="medium-4 columns">
         <h3>Javascript</h3>
